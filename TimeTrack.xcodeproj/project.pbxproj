@@ -562,6 +562,7 @@
 				618B785C1D43026D00282E07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		618B785E1D43026D00282E07 /* Build configuration list for PBXNativeTarget "TimeTrack WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -570,6 +571,7 @@
 				618B78601D43026D00282E07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		618B78621D43026D00282E07 /* Build configuration list for PBXNativeTarget "TimeTrack" */ = {
 			isa = XCConfigurationList;
@@ -578,6 +580,7 @@
 				618B78641D43026D00282E07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
